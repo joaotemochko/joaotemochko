@@ -3,7 +3,7 @@
 ### Sobre mim
 Olá, meu nome é João Temochko, também conhecido como Lost, e aqui estão algumas informações úteis e não tão úteis sobre mim.
 
-Jogador ruim de jogos variados, amante de jogos (Console e PC), Game Dev e Co-Fundador da BGH Studios, escritor e amante da linguagem Ruby.
+Jogador ruim de jogos variados, amante de jogos (Console e PC), Game Designer e Co-Fundador da BGH Studios, escritor e amante da linguagem Ruby.
 
 ### Formações
 - Ensino Médio:
