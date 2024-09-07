@@ -14,7 +14,9 @@ E.E. Maria Regina Demarchi Fanani (2014-2016)
 - Ensino Superior:
 Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2017-2022) - Analise e Desenvolvimento de Sistemas 
 
-- Pós-Graduação: Cruzeiro do Sul (2023-Presente) - Projeto e Desenvolvimento de Jogos Digitais
+- Pós-Graduação: Cruzeiro do Sul (2023-2024) - Projeto e Desenvolvimento de Jogos Digitais
+
+- Pós-Graduação: CENES (2024-Presente) - Arquitetura de Sistemas da Informação
 
 ##
 
