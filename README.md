@@ -16,7 +16,9 @@ Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2017-2022)
 
 - Pós-Graduação: Cruzeiro do Sul (2023-2024) - Projeto e Desenvolvimento de Jogos Digitais
 
-- Pós-Graduação: CENES (2024-Presente) - Arquitetura de Sistemas da Informação
+- Pós-Graduação: Faculdade Focus (2024-2025) - Arquitetura de Sistemas da Informação
+
+- Mestrado: FEI (2025-Presente) - Engenharia Elétrica no Campo de Nanotecnologia e Circuitos Integrados
 
 ##
 
