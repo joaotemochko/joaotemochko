@@ -1,9 +1,9 @@
 # Bem vindos ao meu perfil!
 
 ### Sobre mim
-Olá, meu nome é João Temochko, e aqui estão algumas informações úteis e não tão úteis sobre mim.
+Olá, meu nome é João Temochko, e aqui estão algumas informações úteis sobre mim.
 
-Jogador ruim de jogos variados, amante de jogos (Console e PC), Game Designer, escritor e amante da linguagem Ruby.
+Amante de jogos (Console e PC), da Tecnologia da Informação e da linguagem Ruby.
 
 ### Formações
 - Ensino Médio:
