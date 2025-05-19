@@ -5,6 +5,8 @@ Olá, meu nome é João Temochko, e aqui estão algumas informações úteis sob
 
 Amante de jogos (Console e PC), da Tecnologia da Informação e da linguagem Ruby.
 
+Atualmente cursando Mestrado em Engenharia Elétrica na FEI.
+
 ### Formações
 - Ensino Médio:
 E.E. Maria Regina Demarchi Fanani (2014-2016)
@@ -40,6 +42,13 @@ Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2017-2022)
 #### Game Engine
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
+### Hardware Languages
+- SystemVerilog
+- Verilog
+
+### Architectury/Diagram Hardware
+- Intel Quartus
+- Logisim
 
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
