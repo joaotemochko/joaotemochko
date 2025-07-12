@@ -46,7 +46,7 @@ Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2017-2022)
 - SystemVerilog
 - Verilog
 
-### Architectury/Diagram Hardware
+### Architecture/Diagram Hardware
 - Intel Quartus
 - Logisim
 
