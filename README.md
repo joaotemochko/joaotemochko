@@ -8,9 +8,6 @@ Amante de jogos (Console e PC), da Tecnologia da Informação e da linguagem Rub
 Atualmente cursando Mestrado em Engenharia Elétrica na FEI.
 
 ### Formações
-- Ensino Médio:
-E.E. Maria Regina Demarchi Fanani (2014-2016)
-
 - Técnico: SENAC (2017-2019) - Técnico em Informática
 
 - Ensino Superior:
