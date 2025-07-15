@@ -1,39 +1,38 @@
-# Bem vindos ao meu perfil!
+# Welcome to my profile!
 
-### Sobre mim
-Olá, meu nome é João Temochko, e aqui estão algumas informações úteis sobre mim.
+### About me
+Hi, my name is João Temochko, and here are some useful details about me.
 
-Amante de jogos (Console e PC), da Tecnologia da Informação e da linguagem Ruby.
+I’m a passionate gamer (Console and PC), a lover of Information Technology and the Ruby language.
 
-Atualmente cursando Mestrado em Engenharia Elétrica na FEI.
+Currently pursuing a Master's degree in Electrical Engineering at FEI.
 
-### Formações
-- Técnico: SENAC (2017-2019) - Técnico em Informática
+### Education
+- Technical: SENAC (2017–2019) – Computer Technician
 
-- Ensino Superior:
-Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2017-2022) - Analise e Desenvolvimento de Sistemas 
+- Higher Education: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2017–2022) – Analysis and Systems Development
 
-- Pós-Graduação: Cruzeiro do Sul (2023-2024) - Projeto e Desenvolvimento de Jogos Digitais
+- Postgraduate: Cruzeiro do Sul (2023–2024) – Digital Game Design and Development
 
-- Pós-Graduação: Faculdade Focus (2024-2025) - Arquitetura de Sistemas da Informação
+- Postgraduate: Faculdade Focus (2024–2025) – Information Systems Architecture
 
-- Mestrado: FEI (2025-Presente) - Engenharia Elétrica no Campo de Nanotecnologia e Circuitos Integrados
+- Master's: FEI (2025–Present) – Electrical Engineering in the Field of Nanotechnology and Integrated Circuits
 
 ##
 
-### Conhecimentos / Knowledges
+### Skills / Knowledges
 #### Front-End
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Back-End 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### Back-End
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### Database
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Game Engine
@@ -53,24 +52,10 @@ Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2017-2022)
 #### Frameworks
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-#### Librarys
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+#### Libraries
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-#### OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+#### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-<!--
-**joaotemochko/joaotemochko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
