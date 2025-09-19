@@ -7,6 +7,8 @@ I’m a passionate gamer (Console and PC), a lover of Information Technology and
 
 Currently pursuing a Master's degree in Electrical Engineering at FEI.
 
+Currently Professor at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
+
 ### Education
 - Technical: SENAC (2017–2019) – Computer Technician
 
@@ -17,6 +19,9 @@ Currently pursuing a Master's degree in Electrical Engineering at FEI.
 - Postgraduate: Faculdade Focus (2024–2025) – Information Systems Architecture
 
 - Master's: FEI (2025–Present) – Electrical Engineering in the Field of Nanotechnology and Integrated Circuits
+
+### Professional Experience
+- Professor: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (2025-Present)
 
 ##
 
