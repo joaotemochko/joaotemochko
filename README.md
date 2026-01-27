@@ -50,7 +50,7 @@ end
 
 - 👨‍🏫 **Teaching** at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
 - 🔬 **Researching** Nanotechnology and Integrated Circuits for my Master's thesis
-- 💎 **Deepening** my expertise in Ruby and SystemVerilog
+- 💎 **Deepening** my expertise in SystemVerilog and FPGA Design
 - 🎮 **Gaming** on both console and PC platforms
 - 📚 **Sharing** knowledge and inspiring future developers
 
