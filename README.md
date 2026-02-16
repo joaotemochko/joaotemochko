@@ -20,30 +20,6 @@
 
 Passionate about technology, hardware, gaming, and programming, I strive to bridge academic knowledge with practical applications in teaching and research.
 
-```ruby
-class JoaoTemochko
-  attr_reader :location, :role, :passions
-  
-  def initialize
-    @location = "São Bernardo do Campo, SP 🇧🇷"
-    @role = "Professor & Researcher"
-    @passions = ["Nanotechnology", "IC Design", "Ruby", "Gaming", "Education"]
-  end
-  
-  def current_focus
-    {
-      teaching: "IFSP",
-      research: "Master's in Electrical Engineering (FEI)",
-      learning: ["SystemVerilog", "FPGA Design"]
-    }
-  end
-  
-  def fun_fact
-    "I'm both a console and PC gamer! 🎮"
-  end
-end
-```
-
 ---
 
 ## 🎯 Current Activities
