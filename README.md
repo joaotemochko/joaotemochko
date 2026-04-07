@@ -22,16 +22,6 @@ Passionate about technology, hardware, gaming, and programming, I strive to brid
 
 ---
 
-## 🎯 Current Activities
-
-- 👨‍🏫 **Teaching** at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
-- 🔬 **Researching** Nanotechnology and Integrated Circuits for my Master's thesis
-- 💎 **Deepening** my expertise in SystemVerilog and FPGA Design
-- 🎮 **Gaming** on both console and PC platforms
-- 📚 **Sharing** knowledge and inspiring future developers
-
----
-
 ## 🎓 Academic Background
 <div align="center">
 
@@ -135,6 +125,8 @@ Focus: Nanotechnology & Integrated Circuits
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=F0F0F0">
+  
 </p>
 
 ---
