@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hello! Welcome to my profile!
 
 ### Computer architecture · RISC-V · Systems software · Teaching
@@ -20,6 +22,7 @@ My interests sit at the low level of the stack: how instructions flow through a 
 
 ---
 
+</div>
 ## 🔬 Research: IFA (Instruction Flow Amplifier)
 
 My master's dissertation proposes **IFA**, a front-end microarchitecture that reduces **head-of-line blocking** in decoupled front-end buffers of in-order RISC-V cores.
@@ -97,7 +100,8 @@ Repository: [Instruction_Flow_Amplifier](https://github.com/joaotemochko/Instruc
 - **Professor at IFSP** (2025 – present): teaching and mentoring students in software development and technology
 
 ---
-
+<div align="center">
+  
 ## 📊 GitHub stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=joaotemochko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/joaotemochko)
@@ -108,3 +112,4 @@ Repository: [Instruction_Flow_Amplifier](https://github.com/joaotemochko/Instruc
 ---
 
 *"Just as the sun illuminates the day, knowledge illuminates our minds."*
+</div>
