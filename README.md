@@ -23,6 +23,7 @@ My interests sit at the low level of the stack: how instructions flow through a 
 ---
 
 </div>
+
 ## 🔬 Research: IFA (Instruction Flow Amplifier)
 
 My master's dissertation proposes **IFA**, a front-end microarchitecture that reduces **head-of-line blocking** in decoupled front-end buffers of in-order RISC-V cores.
