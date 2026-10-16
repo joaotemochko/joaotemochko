@@ -20,11 +20,11 @@ My interests sit at the low level of the stack: how instructions flow through a 
 
 ---
 
-## 🔬 Research: IFA (Instruction Flow Architecture)
+## 🔬 Research: IFA (Instruction Flow Amplifier)
 
 My master's dissertation proposes **IFA**, a front-end microarchitecture that reduces **head-of-line blocking** in decoupled front-end buffers of in-order RISC-V cores.
 
-- 📄 Paper accepted at **DSD 2026** (Work-in-Progress track), to be published in the *WiPiEC Journal*
+- 📄 Paper accepted at **DSD 2026** (Work-in-Progress track), published in the *WiPiEC Journal*
 - 🧪 Integrated into the **CORE-V Wally** (rv32gc) core: ~2% area cost on Vivado with a 16-entry buffer, no Fmax loss, ~3.6% gain on CoreMark, and roughly neutral results on Embench
 
 Repository: [Instruction_Flow_Amplifier](https://github.com/joaotemochko/Instruction_Flow_Amplifier)
